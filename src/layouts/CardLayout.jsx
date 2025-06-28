@@ -13,7 +13,7 @@ import Card5 from '../assets/card5.png'
 const CardLayout = () => {
   return (
     <section className='bg-[#F6F5FF]'>
-        <Container className="pt-[100px]">
+        <Container className="pt-[100px] pb-[100px]">
             <Flex className='gap-6 flex-wrap'>
                 <div className='w-[370px]'>
                     <CommonHeading text="What We Do"/>

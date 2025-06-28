@@ -8,7 +8,8 @@ export default {
     extend: {
       fontFamily: {
         'openSans': ["Open Sans"],
-        'paprika': ["Paprika"]
+        'paprika': ["Paprika"],
+        'nunito':["Nunito"]
       },
       colors: {
         'primary':"#1BBF00",
@@ -18,7 +19,8 @@ export default {
         'fourth': "#726E9E",
         'fifth': "#FAFAFE",
         'sixth': "#E6E5F3",
-        'seventh': "#F4F4F5"
+        'seventh': "#F4F4F5",
+        'bgThree': "#6B62C5"
       },
       maxWidth: {
         "container": "1170px"
