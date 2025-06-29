@@ -6,6 +6,7 @@ import Feature from './layouts/Feature'
 import CardLayout from './layouts/CardLayout'
 import Impact from './layouts/Impact'
 import ChoosePlan from './layouts/ChoosePlan'
+import Footer from './layouts/Footer'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <CardLayout />
       <Impact />
       <ChoosePlan/>
+      <Footer/>
     </>
   )
 }

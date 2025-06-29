@@ -20,7 +20,9 @@ export default {
         'fifth': "#FAFAFE",
         'sixth': "#E6E5F3",
         'seventh': "#F4F4F5",
-        'bgThree': "#6B62C5"
+        'bgThree': "#6B62C5",
+        'footer': "#48409C",
+        'eighth': "#FEFEFE"
       },
       maxWidth: {
         "container": "1170px"
