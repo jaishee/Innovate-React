@@ -21,7 +21,7 @@ const Feature = () => {
             <div className="w-1/2 pl-[186px]">
               <CommonHeading text="Why Choose Us" className=""/>
               <CommonSubHeading className="pt-3 w-[393px] pb-[41px]" text="We are now a team of strategists, engineers, designers, and marketers who both use and develop technology for a variety of client needs."/>
-              <Button className="" text="Contact Us"/>
+              <Button className="hover:text-primary" text="Contact Us"/>
             </div>
           </Flex>
       </Container>

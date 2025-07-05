@@ -9,7 +9,8 @@ export default {
       fontFamily: {
         'openSans': ["Open Sans"],
         'paprika': ["Paprika"],
-        'nunito':["Nunito"]
+        'nunito':["Nunito"],
+        'quick': ["Quicksand"]
       },
       colors: {
         'primary':"#1BBF00",
